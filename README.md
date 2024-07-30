@@ -11,12 +11,8 @@ In this week, you will explore testing methodologies including unit testing and 
 
 ### Testing Backend API Endpoints using Postman:
         Install and set up Postman for testing backend API endpoints.
-        Create collections and requests in Postman to test various API endpoints of a sample backend application.
+        Create collections and requests in Postman to test various API endpoints of your expense tracking application
         Test CRUD operations, authentication, and error handling functionalities of the backend API.
-
-### Integration Testing Backend Services:
-        Set up an environment for integration testing of backend services.
-        Write integration tests to ensure the interoperability and functionality of different backend services (e.g., database operations, authentication middleware, API routes).
 
 ### Debugging Frontend and Backend Code:
         Learn debugging techniques for frontend code using browser developer tools (e.g., Chrome DevTools).
